@@ -37,8 +37,6 @@ Los proyectos utilizan datos ficticios y tienen como objetivo demostrar la aplic
 
 **Archivo:** `Proyecto_02_Control_Gastos.xlsx`
 
-*La descripción y los resultados se completarán de acuerdo con el contenido final del proyecto.*
-
 ---
 
 ### Proyecto 03: Control y análisis de operaciones bancarias
