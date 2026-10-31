@@ -6,7 +6,7 @@ Esta sección reúne tres proyectos prácticos desarrollados en Microsoft Excel,
 
 A través de estos ejercicios se aplican funciones matemáticas, estadísticas y condicionales, además de herramientas de análisis y visualización de información.
 
-## 📁 Proyectos desarrollados
+## 📁 Proyectos Desarrollados
 
 ### 📌 Proyecto 01: Análisis del Rendimiento Académico
 
@@ -97,7 +97,7 @@ Organizar y analizar operaciones bancarias para obtener información sobre los m
 
 ---
 
-## 🧠 Competencias desarrolladas
+## 🧠 Competencias Desarrolladas
 
 Durante el desarrollo de estos proyectos se fortalecieron las siguientes habilidades:
 
@@ -109,7 +109,7 @@ Durante el desarrollo de estos proyectos se fortalecieron las siguientes habilid
 * Creación de tablas dinámicas y gráficos.
 * Presentación visual de resultados.
 
-## 🛠️ Herramientas utilizadas
+## 🛠️ Herramientas Utilizadas
 
 * Microsoft Excel.
 * GitHub.
@@ -129,4 +129,4 @@ Todos los datos utilizados son ficticios y fueron creados exclusivamente con fin
 ---
 
 **Nivel completado: Excel Básico.**
-Próximo objetivo: continuar fortaleciendo mis habilidades mediante proyectos de Excel Intermedio.
+Próximo objetivo: Continuar fortaleciendo mis habilidades mediante proyectos de Excel Intermedio.
