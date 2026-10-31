@@ -1,82 +1,132 @@
-# Excel Básico
+# 📊 Excel Básico | Proyectos de Análisis de Datos
 
-Esta sección reúne proyectos desarrollados en Microsoft Excel para practicar la organización de datos, el uso de fórmulas y funciones, el análisis de información y la creación de reportes visuales.
+## 📌 Descripción
 
-Los proyectos utilizan datos ficticios y tienen como objetivo demostrar la aplicación práctica de Excel en situaciones similares a las del entorno laboral.
+Esta sección reúne tres proyectos prácticos desarrollados en Microsoft Excel, orientados a la organización, procesamiento y análisis de datos.
 
-## Proyectos
+A través de estos ejercicios se aplican funciones matemáticas, estadísticas y condicionales, además de herramientas de análisis y visualización de información.
 
-### Proyecto 01: Análisis del rendimiento académico
+## 📁 Proyectos desarrollados
 
-**Descripción:** Análisis de datos académicos ficticios de la Universidad Privada Nuevo Horizonte (UPNH), orientado a evaluar el rendimiento de los estudiantes en diferentes cursos y carreras.
+### 📌 Proyecto 01: Análisis del Rendimiento Académico
 
-**Objetivos:**
+**Objetivo:**
 
-* Analizar las calificaciones de los estudiantes.
-* Calcular y comparar promedios.
-* Identificar notas máximas y mínimas.
-* Evaluar los resultados por curso y carrera.
-* Analizar aprobados y desaprobados.
-* Presentar información mediante tablas, indicadores y gráficos.
+Analizar el rendimiento académico de una universidad ficticia mediante el procesamiento de información de estudiantes, cursos y carreras profesionales.
 
-**Archivo:** `Proyecto_01_Rendimiento_Academico.xlsx`
+**Contenido:**
 
----
+* Base de datos con 60 registros académicos.
+* Elaboración de indicadores generales.
+* Análisis de notas por curso.
+* Análisis del rendimiento por carrera.
+* Identificación de estudiantes aprobados y desaprobados.
+* Evaluación del rendimiento considerando criterios de asistencia y entrega de trabajos.
+* Evaluación final de conocimientos sobre funciones de Excel.
 
-### Proyecto 02: Control de gastos personales
+**Funciones aplicadas:**
 
-**Descripción:** Proyecto orientado a organizar y analizar gastos personales para identificar patrones de consumo, controlar el presupuesto y conocer la distribución de los gastos.
-
-**Objetivos:**
-
-* Registrar y organizar los gastos.
-* Calcular indicadores de gastos.
-* Comparar gastos por categoría.
-* Identificar los gastos de mayor y menor importe.
-* Presentar los resultados mediante tablas y gráficos, según las herramientas utilizadas en el proyecto.
-
-**Archivo:** `Proyecto_02_Control_Gastos.xlsx`
+* REDONDEAR.
+* SUMAR.SI y SUMAR.SI.CONJUNTO.
+* PROMEDIO, PROMEDIO.SI y PROMEDIO.SI.CONJUNTO.
+* CONTAR.SI y CONTAR.SI.CONJUNTO.
+* CONTARA y CONTAR.BLANCO.
+* MAX y MIN.
+* K.ESIMO.MAYOR y K.ESIMO.MENOR.
+* MAX.SI.CONJUNTO y MIN.SI.CONJUNTO.
 
 ---
 
-### Proyecto 03: Control y análisis de operaciones bancarias
+### 📌 Proyecto 02: Control de Gastos Personales
 
-**Descripción:** Análisis de operaciones bancarias ficticias del Banco Horizonte mediante la organización de datos, el cálculo de indicadores y la elaboración de tablas dinámicas y gráficos.
+**Objetivo:**
 
-**Herramientas utilizadas:**
+Registrar, organizar y analizar los gastos personales para identificar patrones de consumo, distribución del dinero y comportamiento de los gastos.
 
-* Tablas de Excel.
-* Fórmulas y funciones.
+**Contenido:**
+
+* Base de datos con 18 registros de gastos.
+* Elaboración de indicadores generales.
+* Análisis de gastos por categoría.
+* Análisis por medio de pago.
+* Clasificación de gastos necesarios y opcionales.
+* Tablas dinámicas y gráficos para visualizar los resultados.
+* Segmentación de datos para facilitar el análisis.
+
+**Funciones y herramientas aplicadas:**
+
+* SUMA y SUMAR.SI.
+* CONTARA.
+* PROMEDIO.
+* MAX y MIN.
+* Funciones condicionales.
+* Tablas dinámicas.
+* Segmentación de datos.
+* Gráficos dinámicos.
+
+---
+
+### 📌 Proyecto 03: Análisis de Operaciones Bancarias
+
+**Objetivo:**
+
+Organizar y analizar operaciones bancarias para obtener información sobre los movimientos financieros, los productos utilizados y los montos registrados.
+
+**Contenido:**
+
+* Base de datos con 12 operaciones bancarias.
+* Clasificación de productos financieros.
+* Análisis de montos por tipo de producto.
+* Cálculo de indicadores generales.
+* Tablas dinámicas y gráficos para representar los resultados.
+
+**Productos financieros analizados:**
+
+* Cuenta de ahorro.
+* Tarjeta de crédito.
+* Préstamo personal.
+
+**Funciones y herramientas aplicadas:**
+
+* SUMA y SUMAR.SI.
+* CONTAR.SI y CONTAR.SI.CONJUNTO.
+* PROMEDIO y funciones condicionales.
+* MAX y MIN.
 * Tablas dinámicas.
 * Gráficos dinámicos.
-* Segmentación de datos.
-
-**Principales resultados:**
-
-* Monto total analizado: S/ 278,500.
-* Registros analizados: 12.
-* Operaciones completadas: 8.
-* Tasa de operaciones completadas: 66.67%.
-* Producto con mayor monto acumulado: Préstamo personal, con S/ 115,000.
-
-**Archivo:** `Proyecto_03_Operaciones_Bancarias.xlsx`
 
 ---
 
-## Herramientas y habilidades
+## 🧠 Competencias desarrolladas
 
-A través de estos proyectos se practican progresivamente las siguientes habilidades:
+Durante el desarrollo de estos proyectos se fortalecieron las siguientes habilidades:
 
-* Organización y limpieza de datos.
-* Uso de fórmulas y funciones de Excel.
-* Cálculo de indicadores.
-* Análisis y comparación de información.
-* Elaboración de tablas dinámicas.
-* Creación de gráficos dinámicos.
-* Presentación de resultados de forma clara.
+* Organización y estructuración de bases de datos.
+* Aplicación de funciones matemáticas y estadísticas.
+* Uso de funciones condicionales y criterios múltiples.
+* Elaboración de indicadores de análisis.
+* Análisis e interpretación de información.
+* Creación de tablas dinámicas y gráficos.
+* Presentación visual de resultados.
 
-Las herramientas específicas utilizadas pueden variar según cada proyecto.
+## 🛠️ Herramientas utilizadas
 
-## Nota
+* Microsoft Excel.
+* GitHub.
 
-Todos los datos utilizados en estos proyectos son ficticios y se presentan exclusivamente con fines educativos y de desarrollo de un portafolio profesional.
+## 📂 Archivos del proyecto
+
+| Archivo                                | Descripción                               |
+| -------------------------------------- | ----------------------------------------- |
+| Proyecto_01_Rendimiento_Academico.xlsx | Análisis del rendimiento académico.       |
+| Proyecto_02_Control_Gastos.xlsx        | Registro y análisis de gastos personales. |
+| Proyecto_03_Operaciones_Bancarias.xlsx | Análisis de operaciones bancarias.        |
+
+## 📌 Nota
+
+Todos los datos utilizados son ficticios y fueron creados exclusivamente con fines educativos y de práctica.
+
+---
+
+**Nivel completado: Excel Básico.**
+Próximo objetivo: continuar fortaleciendo mis habilidades mediante proyectos de Excel Intermedio.
